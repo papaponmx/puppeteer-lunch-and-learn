@@ -1,4 +1,4 @@
-module.exports.config = {
+const config = {
   'homePageUrl': 'http://localhost:3000/#/add',
   'campaign':{
     "id":1,
@@ -20,3 +20,5 @@ module.exports.config = {
     "campaignOrigin":"INTERNAL"
   }
 };
+
+module.exports.config = config;
