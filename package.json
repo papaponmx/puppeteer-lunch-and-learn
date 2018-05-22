@@ -11,5 +11,8 @@
   "devDependencies": {
     "puppeteer": "^1.4.0",
     "signale": "^1.1.0"
+  },
+  "dependencies": {
+    "cli-interact": "^0.1.9"
   }
 }
