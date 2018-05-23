@@ -22,6 +22,5 @@ const config = {
   }
 };
 
-// module.exports.config = config;
-
-export  config;
+module.exports.config = config;
+// export  config;

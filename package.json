@@ -10,6 +10,7 @@
   "license": "ISC",
   "devDependencies": {
     "puppeteer": "^1.4.0",
+    "readline-sync": "^1.4.9",
     "signale": "^1.1.0"
   },
   "dependencies": {
